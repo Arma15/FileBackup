@@ -11,6 +11,7 @@ namespace TakeBackupDaily
     {
         private static string Destination = "";
         private static List<string> Sources;
+
         static void Main(string[] args)
         {
             Sources = new List<string>();
@@ -23,7 +24,14 @@ namespace TakeBackupDaily
                     for (int i = 1; i < args.Length; ++i)
                     {
                         Sources.Add(args[i]);
-                        CopyAllFiles(args[i], Destination);
+                        CopyAllFiles(args[i], Path.Combine(Destination, Path.GetFileName(args[i])));
+                    }
+                }
+                else if (Sources.Count > 1 && !string.IsNullOrEmpty(Destination))
+                {
+                    foreach (string str in Sources)
+                    {
+                        CopyAllFiles(str, Path.Combine(Destination, Path.GetFileName(str)));
                     }
                 }
                 else

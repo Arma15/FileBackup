@@ -1,2 +1,3 @@
 source="C:\Users\kflor\OneDrive\Desktop\Src"
+source2="C:\Users\kflor\OneDrive\Desktop\Src - Copy"
 destination="C:\Users\kflor\OneDrive\Desktop\Dest"
