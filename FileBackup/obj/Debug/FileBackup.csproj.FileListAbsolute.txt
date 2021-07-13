@@ -1,0 +1,7 @@
+C:\Users\kflor\source\repos\FileBackup\FileBackup\bin\Debug\FileBackup.exe.config
+C:\Users\kflor\source\repos\FileBackup\FileBackup\bin\Debug\FileBackup.exe
+C:\Users\kflor\source\repos\FileBackup\FileBackup\bin\Debug\FileBackup.pdb
+C:\Users\kflor\source\repos\FileBackup\FileBackup\obj\Debug\FileBackup.csprojAssemblyReference.cache
+C:\Users\kflor\source\repos\FileBackup\FileBackup\obj\Debug\FileBackup.csproj.CoreCompileInputs.cache
+C:\Users\kflor\source\repos\FileBackup\FileBackup\obj\Debug\FileBackup.exe
+C:\Users\kflor\source\repos\FileBackup\FileBackup\obj\Debug\FileBackup.pdb

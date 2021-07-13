@@ -1,0 +1,14 @@
+Task Completed successfully.
+Task Completed successfully.
+Task Completed successfully.
+2021:06:25:26: Task failed in UpdateSourceAndDestination(), Exception: Empty path name is not legal..
+2021:06:25:26: Exception thrown in CopyAllFiles(), Exception: The path is not of a legal form.
+2021:06:25:26: Task Completed successfully.
+2021:06:25:09:06: Task failed in UpdateSourceAndDestination(), Exception: Empty path name is not legal..
+2021:06:25:09:06: Exception thrown in CopyAllFiles(), Exception: The path is not of a legal form.
+2021:06:25:09:06: Task Completed successfully.
+2021:06:25:09:44: Task failed in UpdateSourceAndDestination(), Exception: Empty path name is not legal..
+2021:06:25:09:44: Exception thrown in CopyAllFiles(), Exception: The path is not of a legal form.
+2021:06:25:09:44: Task Completed successfully.
+2021:06:25:09:48: Task Completed successfully.
+2021:06:25:09:14:39: Task Completed successfully.
